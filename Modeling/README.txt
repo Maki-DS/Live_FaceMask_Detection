@@ -1,1 +1,1 @@
-Here I make the model using data from Kaggle.com
+Here I make the model using data from https://www.kaggle.com/andrewmvd/face-mask-detection
